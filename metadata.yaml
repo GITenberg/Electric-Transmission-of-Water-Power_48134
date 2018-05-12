@@ -1,10 +1,16 @@
 _repo: Electric-Transmission-of-Water-Power_48134
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48134-h/images/cover.jpg
 creator:
   author:
     agent_name: Adams, Alton D.
     gutenberg_agent_id: '44636'
     url: http://www.gutenberg.org/2009/agents/44636
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48134#Electric-Transmission-of-Water-Power
 gutenberg_issued: '2015-02-01'
 gutenberg_type: Text
 identifiers:
